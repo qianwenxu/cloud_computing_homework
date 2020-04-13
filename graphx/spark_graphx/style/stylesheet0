@@ -1,0 +1,8 @@
+node {
+   fill-color: #FFFF00;
+   size: 20px;
+   text-size: 12;
+   text-alignment: at-right;
+   text-padding: 2;
+   text-background-color: #fff7bc;
+}
